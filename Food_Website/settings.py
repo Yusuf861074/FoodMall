@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-y&8kdnjut*(5&!fo(a$-3z=amzijw62*+n7+!@50)vrmag+_17
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://foodmallzone.netlify.app/']
 
 
 # Application definition
