@@ -55,7 +55,7 @@ ROOT_URLCONF = 'Food_Website.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [BASE DIR / 'template'],
+        'DIRS': [BASE_DIR / 'template'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
